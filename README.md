@@ -6,7 +6,7 @@ HTML, CSS, Bootstrap, JQuery, AJAX, GITHUB API
 
 **Visit the site at** https://thephenom1708.github.io/GitHunt/
 
-![](https://github.com/thephenom1708/GitHunt/blob/master/githunt.png)
+![image](https://user-images.githubusercontent.com/30460714/120097730-ccf33480-c14f-11eb-858d-0b8fce056da6.png)
 
 
 
